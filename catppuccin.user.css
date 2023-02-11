@@ -46,6 +46,9 @@
     color: var(--text);
     font-family: sans-serif;
   }
+  a {
+    color: var(--accent);
+  }
 
   /* Web UI */
   textarea,
