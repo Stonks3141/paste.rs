@@ -9,6 +9,7 @@
 	<a href="https://github.com/Stonks3141/paste.rs/stargazers"><img src="https://img.shields.io/github/stars/Stonks3141/paste.rs?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
 	<a href="https://github.com/Stonks3141/paste.rs/issues"><img src="https://img.shields.io/github/issues/Stonks3141/paste.rs?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
 	<a href="https://github.com/Stonks3141/paste.rs/contributors"><img src="https://img.shields.io/github/contributors/Stonks3141/paste.rs?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="catppuccin.user.css?raw=1"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
 <p align="center">
