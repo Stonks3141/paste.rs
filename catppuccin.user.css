@@ -105,4 +105,8 @@
   span[style="color:#2aa198;"] {
     color: var(--green) !important;
   }
+  /**/
+  span[style="color:#6c71c4;"] {
+    color: var(--teal) !important;
+  }
 }
