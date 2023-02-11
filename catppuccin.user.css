@@ -109,4 +109,16 @@
   span[style="color:#6c71c4;"] {
     color: var(--teal) !important;
   }
+  /* self/this */
+  span[style="color:#d33682;"] {
+    color: var(--red) !important;
+  }
+  /* Constants */
+  span[style="color:#cb4b16;"] {
+    color: var(--peach) !important;
+  }
+  /* String escape sequences */
+  span[style="color:#dc322f;"] {
+    color: var(--maroon) !important;
+  }
 }
