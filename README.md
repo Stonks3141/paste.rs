@@ -12,6 +12,8 @@
 	<a href="catppuccin.user.css?raw=1"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
+<!-- Preview link: https://paste.rs/7FA.rs -->
+
 <p align="center">
 	<img src="assets/previews/preview.webp"/>
 </p>
